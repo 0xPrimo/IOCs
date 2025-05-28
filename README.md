@@ -1,2 +1,7 @@
-# LummaStealer
+# IOCs
+
+## LummaStealer
 - [75b9006f3f5ee374bbfcfbf74ff1f70a5add52a8010a9c1c6ad276fb939f8692](LummaStealer/75b9006f3f5ee374bbfcfbf74ff1f70a5add52a8010a9c1c6ad276fb939f8692.md)
+
+## DCRat
+- [f35cac13d76f955a715a51f5029ec8e4539004f02a447eec2b84febd7a4f62af](DCRat/f35cac13d76f955a715a51f5029ec8e4539004f02a447eec2b84febd7a4f62af.md)
